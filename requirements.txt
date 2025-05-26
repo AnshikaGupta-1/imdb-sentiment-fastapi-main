@@ -3,6 +3,5 @@ uvicorn
 transformers
 requests
 jinja2
-torch
-python-multipart
+
 
